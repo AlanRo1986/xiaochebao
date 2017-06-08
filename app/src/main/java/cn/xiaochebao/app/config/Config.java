@@ -9,7 +9,7 @@ public class Config {
     public static final String CFG_API_URI = "t.xiaochebao.cn";
     public static final String CFG_API_END = "/mapi/index.php";
     public static final String CFG_SERVER_URI = CFG_API_PRE + CFG_API_URI + CFG_API_END;
-    public static final String CFG_UPDATE_FILENAME = "rongyingwang" + "_" + SoftType.P2P;
+    public static final String CFG_UPDATE_FILENAME = "xiaochebao" + "_" + SoftType.P2P;
 
     public static final class SoftType
     {
