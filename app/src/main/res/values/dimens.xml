@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="width_pgb_round">3dp</dimen>
+    <dimen name="text_pgb_round">12dp</dimen>
+
+    <dimen name="mt8">8dp</dimen>
+    <dimen name="mt4">4dp</dimen>
+    <dimen name="mt10">10dp</dimen>
+    <dimen name="mt15">15dp</dimen>
+    <dimen name="mt20">20dp</dimen>
+    <dimen name="mt30">30dp</dimen>
+    <dimen name="mt40">40dp</dimen>
+    <dimen name="mt60">60dp</dimen>
+    <dimen name="mt64">64dp</dimen>
+    <dimen name="mt72">72dp</dimen>
+    <dimen name="mt96">96dp</dimen>
+
+    <dimen name="table_8db">4dp</dimen>
+    <dimen name="mt1">1dp</dimen>
+    <dimen name="mt05">0.5dp</dimen>
+    <dimen name="mt02">0.2dp</dimen>
+
+</resources>

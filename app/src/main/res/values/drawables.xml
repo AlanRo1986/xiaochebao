@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_home" type="drawable">@drawable/app_ic_menu_home</item>
+    <item name="ic_menu_deals" type="drawable">@drawable/app_ic_menu_deals</item>
+    <item name="ic_menu_mall" type="drawable">@drawable/app_ic_menu_mall</item>
+    <item name="ic_menu_ucenter" type="drawable">@drawable/app_ic_menu_ucenter</item>
+    <item name="ic_menu_notice" type="drawable">@drawable/app_ic_menu_notice_o</item>
+
+    <item name="ic_menu_share" type="drawable">@drawable/app_ic_menu_share_o</item>
+    <item name="ic_menu_setting" type="drawable">@drawable/app_ic_menu_setting_o</item>
+    <item name="ic_menu_about" type="drawable">@drawable/app_ic_menu_about</item>
+    <item name="ic_menu_loginOut" type="drawable">@drawable/app_ic_menu_login_out_o</item>
+    <item name="ic_menu_cals" type="drawable">@drawable/app_ic_menu_calculator</item>
+
+    <item name="ic_menu_share2" type="drawable">@drawable/app_ic_menu_share_title</item>
+    <item name="ic_menu_share_wxTimeLine" type="drawable">@drawable/app_ic_menu_share_wachat_moment</item>
+    <item name="ic_menu_share_wx" type="drawable">@drawable/app_ic_menu_share_wachat</item>
+    <item name="ic_menu_share_qq" type="drawable">@drawable/app_ic_menu_share_qq</item>
+    <item name="ic_menu_share_qqTimeLine" type="drawable">@drawable/app_ic_menu_share_qzone</item>
+    <item name="ic_menu_share_weibo" type="drawable">@drawable/app_ic_menu_share_sina_weibo</item>
+    <item name="ic_menu_share_sms" type="drawable">@drawable/app_ic_menu_share_sms</item>
+    <item name="ic_menu_share_cpUrl" type="drawable">@drawable/app_ic_menu_share_cpurl</item>
+
+</resources>

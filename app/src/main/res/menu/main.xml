@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_ucenter"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_setting"
+        android:title="@string/nav_ucenter"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="@string/nav_share"
+        android:icon="@drawable/ic_menu_share"
+        app:showAsAction="never" >
+        <menu>
+            <item
+                android:id="@+id/action_share_wxTimeLine"
+                android:title="@string/action_share_wxTimeLine"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_wxTimeLine"/>
+            <item
+                android:id="@+id/action_share_wx"
+                android:title="@string/action_share_wx"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_wx"/>
+            <item
+                android:id="@+id/action_share_qq"
+                android:title="@string/action_share_qq"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_qq"/>
+            <item
+                android:id="@+id/action_share_qqTimeLine"
+                android:title="@string/action_share_qqTimeLine"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_qqTimeLine"/>
+            <item
+                android:id="@+id/action_share_weibo"
+                android:title="@string/action_share_weibo"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_weibo"/>
+            <item
+                android:id="@+id/action_share_sms"
+                android:title="@string/action_share_sms"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_sms"/>
+            <item
+                android:id="@+id/action_share_cpUrl"
+                android:title="@string/action_share_cpUrl"
+                android:orderInCategory="100"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_share_cpUrl"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/actionk_upgrade"
+        android:orderInCategory="100"
+        android:title="@string/actionk_upgrade"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_login_out"
+        android:orderInCategory="999"
+        android:icon="@drawable/ic_menu_loginOut"
+        android:title="退出" />
+</menu>

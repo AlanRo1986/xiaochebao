@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/mt15"
+    android:layout_marginLeft="@dimen/mt4"
+    android:layout_marginRight="@dimen/mt4"
+    android:background="@drawable/ada_deal_item_background">
+
+    <LinearLayout
+        android:id="@+id/ada_layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bce25e"
+        android:padding="@dimen/mt8"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ada_tv_deal_status"
+            android:textColor="@color/white"
+            android:text=""/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/mt10"
+            android:layout_marginRight="@dimen/mt10"
+            android:textColor="@color/colore6"
+            android:text="@string/deal_item_tv_aux"/>
+
+        <TextView
+            android:id="@+id/ada_tv_deal_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text=""/>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:baselineAligned="false">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/mt20"
+            android:paddingBottom="@dimen/mt20"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/ada_tv_borrow_money"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/dkgray"
+                android:text=""/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/mt15"
+                android:gravity="center"
+                android:textColor="@color/colora7"
+                android:text="@string/deal_item_tv_money"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/mt20"
+            android:paddingBottom="@dimen/mt20"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/ada_tv_rate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/orange"
+                android:text=""/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/mt15"
+                android:gravity="center"
+                android:textColor="@color/colora7"
+                android:text="@string/deal_item_tv_rate"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/mt20"
+            android:paddingBottom="@dimen/mt20"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/ada_tv_repay_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/gray"
+                android:text=""/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/mt15"
+                android:gravity="center"
+                android:textColor="@color/colora7"
+                android:text="@string/deal_item_tv_date"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/mt20"
+            android:paddingBottom="@dimen/mt20"
+            android:gravity="center"
+            android:layout_weight="1">
+
+
+            <cn.xiaochebao.app.view.RoundProgressBar
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:id="@+id/ada_tv_progress"
+                android:padding="@dimen/mt10"
+
+                android:max="100"
+                android:progress="20"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

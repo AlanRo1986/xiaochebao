@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="首页" />
+        <item
+            android:id="@+id/nav_deals"
+            android:icon="@drawable/ic_menu_deals"
+            android:title="投资理财" />
+        <item
+            android:id="@+id/nav_mall"
+            android:icon="@drawable/ic_menu_mall"
+            android:title="积分商城" />
+        <item
+            android:id="@+id/nav_ucenter"
+            android:icon="@drawable/ic_menu_ucenter"
+            android:title="用户中心" />
+        <item
+            android:id="@+id/nav_notice"
+            android:icon="@drawable/ic_menu_notice"
+            android:title="最新动态" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_about"
+            android:title="@string/nav_about" />
+    </group>
+
+    <item android:title="实用工具">
+        <menu>
+            <item
+                android:id="@+id/nav_calc"
+                android:icon="@drawable/ic_menu_cals"
+                android:title="@string/nav_calc" />
+
+        </menu>
+    </item>
+
+</menu>

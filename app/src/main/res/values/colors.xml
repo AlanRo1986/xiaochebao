@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#FF000000</color>
+    <color name="dkgray">#FF444444</color>
+    <color name="ltgray">#FFCCCCCC</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="green2">#00be00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="cyan2">#00d6e6</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="orange">#ffff6600</color>
+    <color name="gray">#ff666666</color>
+    <color name="low_gray">#ffcccccc</color>
+    <color name="lightgray">#ff999999</color>
+    <color name="white">#ffffffff</color>
+    <color name="ebebeb">#ebebeb</color>
+    <color name="bce25e">#a1cc37</color>
+
+    <color name="colorf23">#fc6f23</color>
+    <color name="color900">#fd5900</color>
+    <color name="color9c0">#fd9c00</color>
+    <color name="colorfff">#d8fefff8</color>
+    <color name="colorf2f2">#f2f2f2</color>
+    <color name="colorccc">#ccc</color>
+    <color name="colora7">#a7a7a7</color>
+    <color name="colord9">#d9d9d9</color>
+    <color name="colore6">#e6e6e6</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="c3fa9f5">#3fa9f5</color>
+</resources>

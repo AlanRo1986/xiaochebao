@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">小车宝</string>
+    <string name="ok">好</string>
+    <string name="no">不</string>
+    <string name="inValidNetwork">当前网络不可用!</string>
+    <string name="checkUpgrade">检查更新中....</string>
+    <string name="checkUpgradeFailed">检查更新失败</string>
+    <string name="checkUpgradeSuccessNot">当前已是最新版本</string>
+    <string name="checkUpgradeSuccessNew">有新版本可以更新</string>
+    <string name="upgrade">更新</string>
+    <string name="vercodeUpgrade">版本号%s更新</string>
+    <string name="downloading">下载中...</string>
+    <string name="loginPlease">请登录</string>
+
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+
+    <string name="nav_home">首页</string>
+    <string name="nav_deal">投资理财</string>
+    <string name="nav_mall">积分商城</string>
+    <string name="nav_ucenter">用户中心</string>
+    <string name="nav_notice">最新动态</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_about">关于</string>
+    <string name="nav_login_out">注销</string>
+    <string name="nav_calc">计算器</string>
+
+    <string name="actionk_upgrade">检查更新</string>
+    <string name="nav_exit">退出</string>
+    <string name="action_share_wxTimeLine">微信朋友圈</string>
+    <string name="action_share_wx">微信好友</string>
+    <string name="action_share_qq">QQ好友</string>
+    <string name="action_share_qqTimeLine">QQ空间</string>
+    <string name="action_share_weibo">新浪微博</string>
+    <string name="action_share_sms">发送短信</string>
+    <string name="action_share_cpUrl">复制网址</string>
+    <string name="informationSuccess">信息</string>
+
+
+    <string name="frag_main_tv_1">累计成交额</string>
+    <string name="frag_main_tv_2">累计创造收益</string>
+    <string name="frag_main_tv_3">本息保障金</string>
+    <string name="frag_main_tv_unit">(万元)</string>
+
+    <string name="deal_item_tv_aux">|</string>
+    <string name="deal_item_tv_money">金额</string>
+    <string name="deal_item_tv_rate">预计年化收益</string>
+    <string name="deal_item_tv_date">期限</string>
+    <string name="wait">请稍后...</string>
+    <string name="no_more">没有更多了</string>
+
+
+
+
+    <string name="posting">正在提交...</string>
+
+    <string name="del">删除</string>
+    <string name="enter">确定</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_init">InitActivity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+</resources>
